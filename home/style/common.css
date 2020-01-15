@@ -1,0 +1,175 @@
+body {
+    width: 100%;
+    font-family: 微软雅黑;
+    overflow-x: hidden;
+}
+.header {
+	width: 100%;
+    height: 80px;
+    line-height: 81px;
+}
+.header ul{
+	float: right;
+    margin-right: 10px;
+}
+.header ul li {
+	float: left;
+	margin-left: 60px;
+	height: 65px;
+	font-size: 15px;
+	cursor: pointer;
+}  
+.header ul li:hover {
+	font-weight: bold;
+}   
+.header .box {
+	max-width: 1000px;
+	margin: 0 auto;
+	color: #e76a49;
+}
+
+/*73B9FE*/
+.header .box li {
+	color: #e76a49;
+}
+.header .box div img {
+	margin-top: 21px;
+}
+.header .box div{
+	display: inline-block;
+}
+.logo_box img{
+    width: 45px;
+    height: 45px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.logo_box span{
+    margin-bottom: -10px;
+    font-size: 17px;
+}
+.front_color {
+	color: #6f9ee8;
+}
+footer {
+	width: 100%;
+	text-align: center;
+	height: 70px;
+	line-height: 70px;
+    font-size: 14px;
+    
+}
+/*link------------------------------------------------*/
+.f_color {
+    color: #999;
+}
+.center_box {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.center_box .join_title {
+	margin-top: 20px;
+	margin-bottom: 28px;
+    border-bottom: 2px solid #e76a49;
+}
+.join_title h3 {
+	display: inline-block;
+	border-bottom: 5px solid #000000;
+	margin-bottom: -3px;
+    height: 45px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.info {
+	color: #7a7a7a;
+}
+.info li{
+	margin-bottom: 15px;
+}
+.zt_company {
+	color: #000;
+}
+.map {
+	background: url(../images/map.jpg) no-repeat 100% center; 
+	height: 400px;
+}    
+.join_info {
+    margin: 10px 0;
+}
+.font_style {
+	text-indent: 40px;
+    color: #000000;
+    font-size: 12px;
+    line-height: 20px;
+}
+.font_style2 {
+    color: #7a7a7a;
+    font-size: 15px;
+    line-height: 26px;
+}
+.font_style3 {
+    color: #7a7a7a;
+    font-size: 15px;
+}
+.mgb {
+	margin-bottom: 100px;
+}
+.huatie {
+    height: 150px;
+    line-height: 120px;
+	border-bottom: 2px solid #ededed;
+	position: relative;
+}
+.huatie i{
+	position: absolute;
+	left: 2px;
+	bottom: 15px;
+	background: url(../images/huaties_03.png) center no-repeat;
+    height: 140px;
+    width: 180px;
+}
+.huatie p {
+	float: right;
+}
+.mg {
+	margin: 50px 0;
+}
+.company_logos img{
+	width: 186px;
+    height: 46px;
+}
+.company_logos {
+	text-align: center;
+}
+.company_logos .logo_bug {
+	height: 89px;
+	margin-top: -22px;
+}
+.img_box {
+	margin: 50px 0 ;
+}
+.img_box img {
+	width: 235px;
+	height: 115px;
+	margin-bottom: 10px;
+}
+.list {
+	text-align: center;
+}
+.list h4 {
+    background-color: #f3dca0;
+    display: inline-block;
+    padding: 5px 15px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.list p {
+	font-size: 16px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.list_exa img {
+	width: 330px;
+	height: 230px;
+}
